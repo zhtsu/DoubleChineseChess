@@ -1,25 +1,24 @@
 # DoubleChineseChess
 
-A double chinese chess game in console that coded in pure C. This is my final assignments for the first-year C course.
+运行于控制台的双人象棋，这是我大学一年级时完成的 C 语言课程设计。
 
-# IDE
+# 开发工具
 
 Dev-C++
 
-# Screenshots
+# 运行截图
 
-### Main Menu
+### 主菜单
 
 ![main-menu](images/double_chinese_chess_main_menu.png)
 
-### Help
-
+### 帮助
 ![main-help](images/double_chinese_chess_help.png)
 
-### Game
+### 对局
 
 ![main-game](images/double_chinese_chess_game.png)
 
-### Challenge
+### 残局挑战
 
 ![main-challenge](images/double_chinese_chess_challenge.png)
