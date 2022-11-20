@@ -8,17 +8,4 @@ Dev-C++
 
 # 运行截图
 
-### 主菜单
-
-![main-menu](images/double_chinese_chess_main_menu.png)
-
-### 帮助
-![main-help](images/double_chinese_chess_help.png)
-
-### 对局
-
-![main-game](images/double_chinese_chess_game.png)
-
-### 残局挑战
-
-![main-challenge](images/double_chinese_chess_challenge.png)
+![main-game](screenshots/double_chinese_chess_game.png)
